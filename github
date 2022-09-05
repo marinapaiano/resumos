@@ -1,0 +1,12 @@
+
+git log --> ver o histórico do commit
+git log print out
+git log --oneline
+
+git merge --> incorpora mudanças ao branch atual
+
+git rebase --> move um branch de um commit pro outro
+
+git pull --> atualiza seu head branch com as diferenças mais recentes da nuvem
+
+git push --> transfere seus commits do seu repositório local para o repositório da nuvem
